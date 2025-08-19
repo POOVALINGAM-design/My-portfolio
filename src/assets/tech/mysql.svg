@@ -1,0 +1,36 @@
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MySQL logo tile">
+	<!-- Colors (edit as needed) -->
+	<defs>
+		<style>
+			.bg { fill:#00618A; }        /* MySQL blue */
+			.dolphin { fill:#FFFFFF; }    /* white dolphin */
+			.text { fill:#F29111; }       /* MySQL orange */
+		</style>
+	</defs>
+
+	<!-- Rounded square background -->
+	<rect x="5" y="5" width="140" height="140" rx="24" class="bg"/>
+
+	<!-- Simplified dolphin mark (centered) -->
+	<path class="dolphin" d="
+		M 42 86
+		C 55 70, 70 58, 86 56
+		C 100 54, 109 61, 112 71
+		C 114 77, 113 83, 109 88
+		C 105 93, 97 98, 88 100
+		C 83 101, 83 96, 88 95
+		C 96 92, 101 86, 101 80
+		C 101 73, 93 67, 82 68
+		C 70 69, 58 77, 50 88
+		C 48 90, 45 90, 44 88
+		C 43 87, 42 86, 42 86 Z
+		M 77 63
+		C 79 61, 82 60, 85 60
+		C 86 60, 87 61, 87 62
+		C 87 64, 85 65, 83 65
+		C 81 65, 79 64, 77 63 Z" />
+
+	<!-- Optional "MySQL" label (small, bottom) -->
+	<text x="75" y="128" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+				font-size="16" text-anchor="middle" class="text">MySQL</text>
+</svg>
