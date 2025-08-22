@@ -43,5 +43,6 @@
     "typescript": "^5.2.2",
     "vite": "^5.0.8",
     "vite-plugin-svgr": "^4.3.0"
-  }
+  },
+  "homepage": "https://poovalingam-design.github.io/My-portfolio/"
 }
