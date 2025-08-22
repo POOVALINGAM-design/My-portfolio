@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" aria-label="Code brackets icon">
   <rect width="64" height="64" rx="12" fill="#22223b"/>
   <text x="16" y="40" font-size="32" fill="#3b82f6" font-family="monospace" font-weight="bold">&lt;</text>
   <text x="40" y="40" font-size="32" fill="#3b82f6" font-family="monospace" font-weight="bold">&gt;</text>
 </svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" aria-label="Code brackets icon">
+  <rect width="64" height="64" rx="12" fill="#22223b"/>
+  <text x="16" y="40" font-size="32" fill="#3b82f6" font-family="monospace" font-weight="bold">&lt;</text>
+  <text x="40" y="40" font-size="32" fill="#3b82f6" font-family="monospace" font-weight="bold">&gt;</text>
+</svg>
+>>>>>>> b0006ea2749ab9f74da2367354d6fbd174e84e6f

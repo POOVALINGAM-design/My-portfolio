@@ -4,7 +4,7 @@ import {
   About,
   Contact,
   Experience,
-  Feedbacks,
+  // Feedbacks, // removed unused
   Hero,
   Navbar,
   Tech,
